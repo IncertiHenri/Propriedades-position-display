@@ -1,3 +1,14 @@
+#cabecalho {
+    width: 100%;
+    position:fixed;
+    top: 0%;
+    padding: 10px;
+    background-color: rgb(66, 86, 128);
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 body {
     background-color: azure;
 }
