@@ -52,8 +52,17 @@ display: inline-flex;
 position: static;
 }
 
+.exemplo-absolute{
+position: absolute;
+}
 
+.exemplo-fixed{
+position: fixed;
+}
 
+.exemplo-sticky{
+position: sticky;
+}
 
 
 
