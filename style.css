@@ -35,6 +35,11 @@ display: inline-block;
 display: flex;
 }
 
+.exemplo-table div{
+display: table;
+}
+
+
 
 
 
