@@ -9,7 +9,21 @@ body {
 
 }
 
+.exemplo-block div{
+display: block;
+}
 
+.exemplo-inline div{
+display: inline;
+}
+
+.exemplo-inline-block div{
+display: inline-block;
+}
+
+.exemplo-flex div{
+display: flex;
+}
 
 
 
