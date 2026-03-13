@@ -303,6 +303,9 @@ body {
 display: block;
 }
 
+.exemplo-inline div{
+display: inline;
+}
 
 
 
