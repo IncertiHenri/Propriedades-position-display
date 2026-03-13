@@ -1,4 +1,29 @@
+body {
+    background-color: azure;
+}
 
+.caixa {
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(242, 255, 127);
+
+}
+
+.exemplo-block div{
+display: block;
+}
+
+.exemplo-inline div{
+display: inline;
+}
+
+.exemplo-inline-block div{
+display: inline-block;
+}
+
+.exemplo-flex div{
+display: flex;
+}
 
 
 
