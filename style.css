@@ -307,6 +307,13 @@ display: block;
 display: inline;
 }
 
+.exemplo-inline-block div{
+display: inline-block;
+}
+
+.exemplo-flex div{
+display: flex;
+}
 
 
 
