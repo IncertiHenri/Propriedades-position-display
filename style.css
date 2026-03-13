@@ -38,6 +38,11 @@ display: flex;
 .exemplo-inline-flex div{
 display: inline-flex;
 }
+.exemplo-table div{
+display: table;
+}
+
+
 
 .exemplo-grid div{
 display: inline-flex;
