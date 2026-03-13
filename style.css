@@ -48,7 +48,9 @@ display: table;
 display: inline-flex;
 }
 
-
+.exemplo-static div{
+position: static;
+}
 
 
 
