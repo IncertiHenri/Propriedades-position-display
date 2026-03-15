@@ -6,11 +6,13 @@
     background-color: rgb(66, 86, 128);
     text-align: center;
     color: white;
+    z-index: 10;
 }
 
 body {
     background-color: azure;
     margin-top: 120px;
+    height: 2500px;
 }
 
 .caixa{
@@ -54,18 +56,25 @@ position: static;
 
 .exemplo-absolute{
 position: absolute;
+left: 600px;
 }
 
-.exemplo-fixed{
-position: fixed;
-}
-
-.exemplo-sticky{
+.sticky{
 position: sticky;
+top: 120px;
+
 }
 
+.caixa-amarela{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(213, 219, 131);
+}
 
-
+.caixa-absolute{
+   
+    background-color: rgb(131, 133, 219);
+}
 
 
 
