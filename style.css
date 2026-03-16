@@ -1,6 +1,6 @@
 #cabecalho {
     width: 100%;
-    position: fixed;
+    position:fixed;
     top: 0%;
     padding: 10px;
     background-color: rgb(66, 86, 128);
@@ -44,8 +44,6 @@ display: inline-flex;
 display: table;
 }
 
-
-
 .exemplo-grid div{
 display: inline-flex;
 }
@@ -61,8 +59,8 @@ left: 600px;
 
 .sticky{
 position: sticky;
-top: 120px;
-
+top: 100px;
+background-color: aquamarine;
 }
 
 .caixa-amarela{
