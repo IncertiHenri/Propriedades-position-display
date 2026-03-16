@@ -13,6 +13,7 @@ body {
     background-color: azure;
     margin-top: 120px;
     height: 2500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .caixa{
@@ -60,7 +61,6 @@ left: 600px;
 .sticky{
 position: sticky;
 top: 100px;
-background-color: aquamarine;
 }
 
 .caixa-amarela{
