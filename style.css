@@ -53,6 +53,13 @@ display: inline-flex;
 position: static;
 }
 
+.caixa-relative{
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+
+
 .exemplo-absolute{
 position: absolute;
 left: 600px;
